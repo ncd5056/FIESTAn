@@ -3,6 +3,8 @@ function Fiesta
 % The script automatically looks for a new version of the software and does start an
 % update, if necessary.
 
+% June 28, 2013
+
 %Name of PC where the FIESTA Tracking Server runs
 global PathBackup;
 global DirRoot;
